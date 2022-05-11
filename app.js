@@ -1,1 +1,4 @@
 
+function fnTest(){
+    alert('success')
+}
